@@ -1,4 +1,8 @@
-_site
-.sass-cache
-node_modules
+### Jekyll ###
+_site/
+.sass-cache/
+.azk
+node_modules/
+.bundle
 _drafts
+Azkfile.js
