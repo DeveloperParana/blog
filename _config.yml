@@ -4,14 +4,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.devparana.org" # the base hostname & protocol for your site
 
 # User settings
-username: DevParaná
-user_description: ...
-user_title: ...
+site_name: DevParaná
+site_description: ...
+site_title: ...
 email: contato@devparana.org
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+twitter_site: lorem_ipsum
+github_site:  lorem_ipsum
+gplus_site:  lorem_ipsum
+disqus_site: lorem_ipsum
 
 # Build settings
 markdown: kramdown
