@@ -1,0 +1,42 @@
+# Site settings
+description: Um blog da comunidade, para a comunidade. Seja bem-vindo!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.devparana.org" # the base hostname & protocol for your site
+
+# User settings
+site_name: DevParaná
+site_description: ...
+site_title: ...
+email: contato@devparana.org
+twitter_site: lorem_ipsum
+github_site:  lorem_ipsum
+gplus_site:  lorem_ipsum
+disqus_site: lorem_ipsum
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
