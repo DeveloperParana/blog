@@ -11,7 +11,7 @@ email: contato@devparana.org
 twitter_site: DeveloperParana
 github_site: DeveloperParana
 facebook_site: DeveloperParana
-disqus_site: lorem_ipsum
+disqus_site: devparana
 
 # Build settings
 markdown: kramdown
