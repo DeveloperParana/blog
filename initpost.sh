@@ -121,6 +121,7 @@ echo "twitter_text:"
 echo "username: Fulano de Tal"
 echo "user_description: Anon Developer at Lorem Ipsum Dolor"
 echo "email: anon@anon.com"
+echo "image: /assets/img/user/blog-author.jog"
 echo "---"
 
 }
