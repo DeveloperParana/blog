@@ -35,7 +35,7 @@ photo: blog-author.jpg
 ---
 ```
 
-_verifique se sua foto está na pasta_ `assets/img/user/`
+_verifique se sua foto está na pasta_ `assets/img/user/` no tamanho maximo de __200x200__
 
 --
 
