@@ -5,7 +5,7 @@ date: 2015-10-22 22:42:16
 image: '/assets/img/'
 description: Veja como em poucos passos é possivel integrar seu projeto no travis-ci
 tags: ci
-categories: ci
+categories: 
 twitter_text: Integração contínua com travis-ci
 username: Fulano de Tal
 user_description: Anon Developer at Lorem Ipsum Dolor

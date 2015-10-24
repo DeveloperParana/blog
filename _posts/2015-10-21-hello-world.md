@@ -5,7 +5,7 @@ date: 2015-10-21 23:16:47
 image: /assets/img/
 description: O começo de um grupo de desenvolvedores.
 tags: hello world
-categories: DevParana
+categories: 
 twitter_text: Hello World, DevParaná!
 username: Igor Santana
 user_description: FrontEnd Developer at Gumga S/A.
