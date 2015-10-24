@@ -35,8 +35,8 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
-    url: /about
+  - title: Sobre nós
+    url: http://www.devparana.org
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
