@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="http://willianjusten.com.br"
+BLOG_URL="http://blog.devparana.org"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -118,9 +118,9 @@ echo "description:"
 echo "tags:"
 echo "categories:"
 echo "twitter_text:"
-echo "username: Fulano de Tal"
-echo "user_description: Anon Developer at Lorem Ipsum Dolor"
-echo "email: anon@anon.com"
+echo "username: devparana"
+echo "user_description: Grupo de desenvolvedores do estado do Paraná"
+echo "email: contato@devparana.org"
 echo "photo: blog-author.jog"
 echo "---"
 
