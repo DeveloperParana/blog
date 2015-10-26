@@ -6,3 +6,4 @@ node_modules/
 .bundle
 _drafts
 Azkfile.js
+gulpfile.js

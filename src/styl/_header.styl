@@ -16,13 +16,14 @@ $bg
 // Header home
 .header-site
 	@extends $bg
+	
 	h1,
 	h3
-		color: sec
+		color: $secondary
 		text-align center
 	
 	.site-title
-		font-size rem(60px)
+		font-size rem(55px)
 		line-height 1
 		margin-top -80px
 		display block
@@ -32,9 +33,10 @@ $bg
 			font-size rem(100px)
 	
 	.site-description
-		font-size rem(20px)
+		font-size rem(18px)
+		font-weight 300
 		display block
-		margin rem(30px) 0
+		margin rem(15px) 0 rem(30px) 0
 	
 		+above(cut)
 			font-size rem(40px)
@@ -79,11 +81,11 @@ $bg
 	h1,
 	.subtitle, 
 	.date
-		color sec
+		color $secondary
 		text-align center
 
 	p
-		color sec
+		color $secondary
 		text-decoration none
 		mainFont(300)
 		font-size rem(18px)
