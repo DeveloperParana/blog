@@ -14,3 +14,5 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+  - GH_REF: github.com/DeveloperParana/blog.git
+  - secure: b4FZPiMfWl8pkJ4f0xY2l426XdBzLJmXXy9+pAxMZl9sjQudr9IMquS5bV6dp1kDn/RfaAg21VVCplThAEDMp6sl/BP69dAsVFrtgTL+kehYN2RH1t9ZvRHPWvx7u9DmZ73ljf/P9vgWyarTc23wkGsU5learTV+o/9KXZtHMuI=
