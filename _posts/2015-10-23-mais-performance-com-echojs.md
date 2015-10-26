@@ -20,12 +20,9 @@ Basicamente o __Echo.js__ faz o request da imagem só quando ela aparece na áre
 Outra coisa, o __Echo.js__ é puramente em Javascript, nada de jQuery ou outros frameworks. Você encontra o repositório do projeto [aqui](https://github.com/toddmotto/echo), lembrando abra a _Devtools_ e veja a requisições.
 [Aqui](http://toddmotto.com/labs/echo/) você encontra um exemplo prático disponibilizado pelo criador do __Echo.js__,e mostra como é fácil de utiliza-lo, apenas passando a utilizar o atributo data-echo para pegarmos o caminho da imagem.
 
-
 {% highlight html %}
 <!-- Utilizando o atributo data-echo="" -->
 <img data-echo=”exemplo.png” alt=”Exemplo”>
 {% endhighlight %}
-```
-
 
 Há outras maneiras de melhorarmos a performance do nosso site em relação a imagens como css sprites, minificar imagens, mas e você, já utilizou essa?
