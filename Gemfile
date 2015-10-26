@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
 
-# http://jekyllrb.com/
+gem 'rake'
 gem 'jekyll'
+gem 'html-proofer'
+gem 'travis-lint'
