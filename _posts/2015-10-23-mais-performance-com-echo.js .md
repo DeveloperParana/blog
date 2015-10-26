@@ -10,7 +10,7 @@ twitter_text: Mais performance com Echo.js
 username: Guilherme Bayer
 user_description: Desenvolvedor FrontEnd
 email: guiilherme.bayer@gmail.com
-photo: user/guilhermebayer.png
+photo: guilhermebayer.jpg
 ---
 
 O número de requisições em um site influencia muito em sua performance, e você acha que talvez integramos coisas desnecessárias ao nosso usuário? e um grande responsável por isso são as imagens, nem sempre todas visualizadas, mas como podemos diminuir esses números de requests desnecessários? Basicamente o Echo.js faz o request da imagem só quando ela aparece na área visual do browser, sem a necessidade de fazer todas requisições de uma única vez.
