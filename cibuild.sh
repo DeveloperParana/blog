@@ -8,10 +8,12 @@ bundle exec jekyll build
 bundle exec htmlproof ./_site
 
 # config
+echo "Git config"
 git config --global user.email "blog@devparana.org"
 git config --global user.name "Blog DevParana"
 
 # deploy
+echo "Deploy"
 git init
 git add .
 git commit -m "Deploy to GitHub Pages"
