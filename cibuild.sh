@@ -22,5 +22,6 @@ git config --global user.name "Blog DevParana"
 echo "Deploy"
 git init
 git add --all
+git status
 git commit -m "Deploy to GitHub Pages"
-git push --force "https://${GH_TOKEN}@github.com/DeveloperParana/blog.git" master:gh-pages
+git push --force "https://${GH_TOKEN}@github.com/DeveloperParana/blog.git" gh-pages
