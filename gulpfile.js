@@ -72,7 +72,7 @@ gulp.task('js', function(){
  * Imagemin Task
  */
 gulp.task('imagemin', function() {
-	return gulp.src('src/img/**/*.{jpg,png,gif}')
+	return gulp.src('src/img/**/*.{jpg,png,gif,ico}')
 		.pipe(plumber())
 		.pipe(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true }))
 		.pipe(gulp.dest('assets/img/'));
