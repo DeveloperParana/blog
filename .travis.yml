@@ -24,5 +24,4 @@ env:
 notifications:
   slack:
     rooms:
-      - devparana:vw8nCjtUyucfe5e6A8Vz02zV#general
       - devparana:vw8nCjtUyucfe5e6A8Vz02zV#blog
