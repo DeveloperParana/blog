@@ -2,6 +2,12 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+echo "Remove assets..."
+rm -Rf assets/*
+
+echo "Gulp..."
+gulp without-jekyll
+
 echo 'Testing travis...'
 bundle exec travis-lint
 bundle exec jekyll build

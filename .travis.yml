@@ -9,9 +9,7 @@ before_script:
   - chmod +x cibuild.sh
   - npm install -g gulp
 
-script:
-  - gulp without-jekyll
-  - "./cibuild.sh"
+script: "./cibuild.sh"
 
 branches:
   only:
