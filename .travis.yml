@@ -4,11 +4,9 @@ rvm:
 
 install:
   - bundle install
-  - npm install
 
 before_script:
   - chmod +x cibuild.sh
-  - npm install -g gulp
 
 script: "./cibuild.sh"
 
