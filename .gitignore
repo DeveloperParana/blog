@@ -7,3 +7,5 @@ node_modules/
 _drafts
 Azkfile.js
 gulpfile.js
+.jekyll-metadata
+.DS_Store
