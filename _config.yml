@@ -16,7 +16,7 @@ disqus_site: devparana
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 
