@@ -3,6 +3,7 @@ rvm:
   - 2.1
 
 install:
+  - bundle install
   - npm install
 
 before_script:
