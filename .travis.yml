@@ -10,8 +10,7 @@ branches:
 env:
   global:
     - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-    - GH_REF=github.com/w3ctag/promises-guide.git
-    - secure=b4FZPiMfWl8pkJ4f0xY2l426XdBzLJmXXy9+pAxMZl9sjQudr9IMquS5bV6dp1kDn/RfaAg21VVCplThAEDMp6sl/BP69dAsVFrtgTL+kehYN2RH1t9ZvRHPWvx7u9DmZ73ljf/P9vgWyarTc23wkGsU5learTV+o/9KXZtHMuI
+    - secure: WkeotzOm9FInCGcT7LwzazvphWyi6xJWcxLenk/3Z2a5j0Be2W2q71Sp/d/Ehd8nyXCKpe7Oqqr1ELa7XS4Xz/npdACa1VbY0Ltl7NZ9KM1aiaEPP859MhCjD28peYYXFqx2T4vn4j3YSnkPybAekDou7D6fFkqqjb/Saqfbpoo=
 
 notifications:
   slack:
