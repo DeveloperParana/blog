@@ -2,10 +2,16 @@ language: ruby
 rvm:
   - 2.1
 
+install:
+  - npm install
+
 before_script:
   - chmod +x cibuild.sh
+  - npm install -g gulp
 
-script: "./cibuild.sh"
+script:
+  - gulp without-jekyll
+  - "./cibuild.sh"
 
 branches:
   only:
