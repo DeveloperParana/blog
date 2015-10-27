@@ -18,4 +18,6 @@ env:
 
 notifications:
   slack:
-  - secure: pjpht8yGmfQO6Hq7NmXyJhGqm5HVVmWxP9S8Eev39d3Tcm1cmIY1dhKsplE+ORFmlrCvaCAPGs3h9uxcSRRyaoTkP3pBta+LjAkzVKr/p5DotcB7JPPbtysCBWIUyW+EVBRmADvZ4FG2ovwPh7wOo+QVtUSLy5X6muQ3rT1x/nc=
+    rooms:
+      - devparana:vw8nCjtUyucfe5e6A8Vz02zV#general
+      - devparana:vw8nCjtUyucfe5e6A8Vz02zV#blog
