@@ -5,12 +5,13 @@ url: "http://blog.devparana.org" # the base hostname & protocol for your site
 
 # User settings
 site_name: DevParaná
-site_description: comunidade paranaense de desenvolvedores 
+site_description: comunidade paranaense de desenvolvedores
 site_title: DevParaná
 email: contato@devparana.org
 twitter_site: DeveloperParana
 github_site: DeveloperParana
 facebook_site: DeveloperParana
+gplus_site: DeveloperParana
 disqus_site: devparana
 
 # Build settings

@@ -5,7 +5,7 @@ date: 2015-10-25 22:42:16
 image: '/assets/img/'
 description: Ganhe mais performance em sua aplicação utilizando uma simples mini-biblioteca que tem como função atrasar o carregamento das imagens.
 tags: javascript performance
-categories: javascript performance
+categories:
 twitter_text: Mais performance com Echo.js
 username: Guilherme Bayer
 user_description: Desenvolvedor FrontEnd

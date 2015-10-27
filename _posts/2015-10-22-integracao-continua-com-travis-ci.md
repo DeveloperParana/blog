@@ -5,12 +5,12 @@ date: 2015-10-22 22:42:16
 image: '/assets/img/'
 description: Veja como em poucos passos é possivel integrar seu projeto no travis-ci
 tags: ci
-categories: 
+categories:
 twitter_text: Integração contínua com travis-ci
-username: Fulano de Tal
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: Renan Martins Pimentel
+user_description: Café!
 email: renan.pimentel@gmail.com
-photo: user/renanmpimentel.jog
+photo: renanmpimentel.jpg
 ---
 
 Nesse post vou mostrar como é simples integrar o seu [github](http://www.github.com) ao [travis-ci](https://travis-ci.org/), uma ferramenta de integração contínua online e __gratís__.
