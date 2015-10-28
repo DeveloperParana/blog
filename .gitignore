@@ -6,6 +6,10 @@ node_modules/
 .bundle
 _drafts
 Azkfile.js
+<<<<<<< HEAD
 gulpfile.js
 .jekyll-metadata
 .DS_Store
+=======
+.DS_Store
+>>>>>>> upstream/master

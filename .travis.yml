@@ -1,6 +1,9 @@
 language: ruby
 rvm:
-  - 2.1
+- 2.1
+
+install:
+  - bundle install
 
 before_script:
   - chmod +x cibuild.sh
@@ -14,10 +17,9 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - secure: yKVPSx6atavakvDDu+hT2gc+nJdIvxAPKnnIp9mdIth16+fv1lVpGB2lMbVg34a0ZxHJZwv23Th4wWoGz0ZOIJFpjmAjjRuXDIZUbYsRc1cPqWdWNEe2NOnhebigck3L+PHcQuSnNXOaUC1SQTV86WsNBM5v79JnsVSbvC9HCsEs4zPQeYjq3G4xA1mlGw9GDbWRqw4+3XFnb6LlNbKoHJ6du5Eid93kq3KTUjzUVMSPuGhDBYbAtWtWn1/8aY5+wleNqStkbXPVJJzR5D8upRb6REc8IbAmXd86T+bu8VqBn785UdRuae6xKsTN3dn4VLqTcmx6tzEvq66TB68lIwsW9OCEIW0Fjaop0v8FBR+rkoWfIduNh7/Dy8umuLwDq+fpWqqGYzca5l6lc4FyRXTIPG3K+MRvVawYx9RWEyHUpj6x/qH/Lv/prSErALS0rCe2LmiWj1qZmlwdNa583uwpAVCFV63lmId5iorel2LAaA3f8vhZ4DHB84nkOYhND7BiS4xp35cACUNfGMVl/EeeM8iJ6SnTKW2DNRhbfunJ3V0ieNuZBYKlI6WTKFU2vMuLEZbMrjo4eSy6/yv8c3XngV6VGpCgqh2p59yDBPjFN27BIPopwSzomoeHHWAMNGZkYEK59CvZCOrFF9txeU6/Oz9dvmq8neIe6gPeIB4=
+  - secure: qipwNYDMd+D+1Hy2LHAsSaEmqjCuLa7QoKqliDf8+wxO3226lOmWwWRY1Kc35/f0wInHrjzrvIeJyip/QbjqPLNqx+waoyc9nBbGtRgdkJVsGj3xE8vil8sPr7LadDx5csPUGhk9H8cmKg1YMszC+iJNiNHyn1s1UL8MIavK+hFyQoai1D+H9KptC825bAgFKTYjj/AF2wwZRFxSe1Ik0d315GXJE7ot2vgjhEs6mKY3MUrkOyjj4zERcWu9+yqpfcC5POZR3AnGJMX4Qo9DX1M+GXpbeFFgEMGKumNGIjnFWKwyBkHlydiAhi40Gl4S8T6a6XyX4Mdsyhq7uTwiWxbJAMRcKtdUOIbCDCbj8qMRveCfjgrNTVA08ZG6lCyOfxnDKv3Uo5Xq7RQRdU59MdbdTncrcb/lz+kYfVIeVhCLxkcentV/l2sp6aPOIlRKWaLZmVatmhpVn32TVulDjqRrpzS+Nw6IXdXKx7Nem70vNQBrQ5thRSznsRB+L/Ru+z6w7l+RuRVxdGRcXqDY2/Y0angIKiJ7lK9rmk/OBkeVwHB2/k4w/zA86XYoJvP+IUKlKeQephuKxtKAXTcAkqf3ZXi121HnehOtcH9aDNxK10DB4IJRDWhZhVaB1cce79EEDnsp4CUTK1w31yJh/aayH9TCnplfLAagUvXFJsY=
 
 notifications:
   slack:
     rooms:
-      - devparana:vw8nCjtUyucfe5e6A8Vz02zV#general
-      - devparana:vw8nCjtUyucfe5e6A8Vz02zV#blog
+    - devparana:vw8nCjtUyucfe5e6A8Vz02zV#blog
