@@ -5,7 +5,7 @@ set -e # halt script on error
 echo 'Testing travis...'
 bundle exec travis-lint
 bundle exec jekyll build
-bundle exec htmlproof ./_site
+bundle exec htmlproof ./_site --disable-external
 
 # config
 echo "Git config"
