@@ -3,7 +3,7 @@ layout: post
 title: "Testando seu front com CasperJs"
 date: 2015-10-28 02:00:00
 image: '/assets/img/'
-description: ''
+description: Gaste menos tempo para validar seu delivery, comece a testar seu front
 tags: teste frontend casperjs javascript
 categories: testes frontend
 twitter_text: Teste seu front com javascript
