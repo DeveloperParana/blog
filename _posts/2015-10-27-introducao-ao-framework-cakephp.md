@@ -2,7 +2,7 @@
 layout: post
 title: "Introdução ao Framework CakePHP"
 date: 2015-10-27 09:39:18
-image: '/assets/img/'
+image:
 description: Neste artigo uma breve introdução ao CakePHP, uma abordagem mais teórica do Framework.
 tags: frameworks php
 categories:
@@ -48,7 +48,7 @@ Abaixo segue uma pequena lista dos recursos que você poder desfrutar no CakePHP
 
 
 ## Como Começar?
-O melhor material sempre é a [Documentação](http://book.cakephp.org/3.0/en/index.html), que está disponível sua maior parte em Português, seguindo os tutorias que a mesma fornece e criando os exemplo é um bom começo pra entender a arquitetura do CakePHP. 
+O melhor material sempre é a [Documentação](http://book.cakephp.org/3.0/en/index.html), que está disponível sua maior parte em Português, seguindo os tutorias que a mesma fornece e criando os exemplo é um bom começo pra entender a arquitetura do CakePHP.
 
 ## Site oficial do CakePHP
 
@@ -110,7 +110,7 @@ usuários da América do Norte e Sul. Adoraríamos ouvir de você, se precisar d
 alguma ajuda, se quiser encontrar usuários por perto ou quiser doar seu novo
 carro esportivo.
 
-## O Google Group 
+## O Google Group
 [http://groups.google.com/group/cake-php](http://groups.google.com/group/cake-php)
 [http://groups.google.com/group/cakephp-pt](http://groups.google.com/group/cakephp-pt)
 
@@ -119,17 +119,15 @@ para encontrar respostas arquivadas, perguntas frequentes, e obter respostas
 para problemas imediatos.
 
 
-## Comunidade do Facebook 
+## Comunidade do Facebook
 [https://www.facebook.com/groups/cakebrasil](https://www.facebook.com/groups/cakebrasil)
 
 Também estamos no Facebook! O CakePHP também tem um grupo bem ativo no Facebok.
 Sempre tem alguém online com disposição de auxiliar no que for preciso (menos mastigar o código pra você)
 
-## Comunidade no Slack 
+## Comunidade no Slack
 [http://slack.cakephpbrasil.com.br/](http://slack.cakephpbrasil.com.br/)
 
 A comunidade é mais acessível para aqueles programadores que estão sempre online tirando dúvidas e auxiliando os que estão chegando, se tiver uma dúvida também de uma passada por lá! Fica mais fácil de conversar! =)
 
 O que eu tenho pra falar do CakePHP Hoje é isso! Em um próximo artigo trago um exemplo prático para melhor consolidar o que foi visto hoje.
-
-

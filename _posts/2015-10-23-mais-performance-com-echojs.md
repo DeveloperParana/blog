@@ -2,7 +2,7 @@
 layout: post
 title: "Mais performance com Echo.js"
 date: 2015-10-25 22:42:16
-image: '/assets/img/'
+image:
 description: Ganhe mais performance em sua aplicação utilizando uma simples mini-biblioteca que tem como função atrasar o carregamento das imagens.
 tags: javascript performance
 categories:
