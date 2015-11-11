@@ -40,4 +40,12 @@ Acesse os nossos canais para mais informações:
 [Facebook](https://www.facebook.com/FEMUG.CWB/)
 [Google Groups](https://groups.google.com/forum/#!topic/femug-cwb/KhCJbMLBEDM)
 
+#Update
+Quer mostrar suas skills em um próximo encontro?
+Acesse [talks](https://docs.google.com/forms/d/16PqdkOuVro7eBZEqIEfLTScQCUpILeuiX5JF98Z3p2E/viewform?c=0&w=1)
+
+
+Quer ser o anfitrião de um encontro?
+Acesse [anfitriões](https://docs.google.com/forms/d/16PqdkOuVro7eBZEqIEfLTScQCUpILeuiX5JF98Z3p2E/viewform?c=0&w=1)
+
 Post originalmente publicado no [blog](http://end2endsystems.com.br/meetup/primeiro-femug-cwb/) do autor
