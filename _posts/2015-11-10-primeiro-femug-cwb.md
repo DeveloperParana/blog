@@ -46,6 +46,6 @@ Acesse [talks](https://docs.google.com/forms/d/16PqdkOuVro7eBZEqIEfLTScQCUpILeui
 
 
 Quer ser o anfitrião de um encontro?
-Acesse [anfitriões](https://docs.google.com/forms/d/16PqdkOuVro7eBZEqIEfLTScQCUpILeuiX5JF98Z3p2E/viewform?c=0&w=1)
+Acesse [anfitriões](https://docs.google.com/forms/d/1J5ODCiLZe2VGufA-UO6_L7qhTg3BEmziQAaUsCWoFhQ/viewform?c=0&w=1)
 
 Post originalmente publicado no [blog](http://end2endsystems.com.br/meetup/primeiro-femug-cwb/) do autor
