@@ -1,6 +1,17 @@
-# Meetup In Company - DB1
-​
-## Realização
+---
+layout: post
+title: "Meetup In Company - DB1"
+date: 2016-05-16 02:00:00
+image: '/assets/img/'
+description: Review do Meetup In Company na DB1
+tags: meetup arduino async docker devops
+categories: meetup incompany
+twitter_text: Meetup In Company
+username: Fernando Fabricio dos Santos
+user_description: Entusiasta de metodologias ágeis e software bem desenvolvido!
+email: ferfabricio@gmail.com
+photo: ferfabricio.jpg
+---
 ​
 Foi relizado no sábado dia 21/05/2016 no período da tarde um Meetup na DB1. Tivemos um total de 20 participantes e um coffee break patrocinado pela DB1.
 
