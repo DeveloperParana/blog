@@ -3,6 +3,8 @@
 ## Realização
 ​
 Foi relizado no sábado dia 21/05/2016 no período da tarde um Meetup na DB1. Tivemos um total de 20 participantes e um coffee break patrocinado pela DB1.
+
+![Meetup In Company - DB1](/assets/img/posts/2-meetup-incompany-db1/meetup.jpg)
 ​
 ## Conteúdo
 ​
@@ -14,9 +16,12 @@ Nesta palestra o Everton demonstrou algumas limitações encontradas para aplica
 
 Mostrou-se também a importância de pensar em automação em todos os estágios da aplicação, sendo que no exemplo a utilização de algumas automações se iniciou em ambiente de desenvolvimento o que levou o cliente a aplicar também em produção visto os benefícios adquiridos.
 
+As ferramentas utilizadas para automação nos ambientes foram Docker e Flyway.
+
 ![Everton Emilio Tavares](/assets/img/posts/2-meetup-incompany-db1/everton.jpg)
 
-As ferramentas utilizadas para automação nos ambientes foram Docker e Flyway.
+#### Links
+[Slides](http://pt.slideshare.net/ezidiu/meu-cliente-no-permite-devops-e-agora)
 
 ### Processamento assíncrono com PHP - Fernando Fabricio dos Santos
 
