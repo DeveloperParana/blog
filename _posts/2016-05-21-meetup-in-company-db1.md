@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meetup In Company - DB1"
-date: 2016-05-16 02:00:00
+date: 2016-05-21 02:00:00
 image: '/assets/img/'
 description: Review do Meetup In Company na DB1
 tags: meetup arduino async docker devops
@@ -17,6 +17,7 @@ Foi relizado no sábado dia 21/05/2016 no período da tarde um Meetup na DB1. Ti
 
 ![Meetup In Company - DB1](/assets/img/posts/2-meetup-incompany-db1/meetup.jpg)
 ​
+
 ## Conteúdo
 ​
 O evento contou com três palestras.
