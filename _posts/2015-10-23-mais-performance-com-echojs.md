@@ -8,7 +8,7 @@ tags: javascript performance
 categories:
 twitter_text: Mais performance com Echo.js
 username: Guilherme Bayer
-user_description: Desenvolvedor FrontEnd
+user_description: Developer, i write in Tableless and my blog, moderator at FEMUG Maringá and Devparaná
 email: guiilherme.bayer@gmail.com
 photo: guilhermebayer.jpg
 ---
