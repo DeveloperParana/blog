@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevParaná Conference - Jaydson Gomes"
-date: 2016-11-03 11:00:00
+date: 2016-11-05 11:00:00
 image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference do Jaydson Gomes
 tags: conference frontend jaydson braziljs
