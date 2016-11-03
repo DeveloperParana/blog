@@ -19,7 +19,7 @@ Mantém sozinho seu site [Maujor.com](http://www.maujor.com/) sem a utilização
 
 Possui 15 livros sobre desenvolvimento web que podem ser conferidos em [http://livrosdomaujor.com.br](http://livrosdomaujor.com.br).
 
-{% youtube GfFsnZPil-I %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/GfFsnZPil-I?color=white&theme=light"></iframe>
 ​
 
 ## A conferência
