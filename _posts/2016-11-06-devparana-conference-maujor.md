@@ -4,7 +4,7 @@ title: "DevParaná Conference - Maurício Samy Silva (Maujor®)"
 date: 2016-11-06 11:00:00
 image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference do Maujor
-tags: conference frontend maujor braziljs
+tags: conference frontend maujor css
 categories: conference
 twitter_text: DevParaná Conference - Jaydson Gomes
 username: Fernando Fabricio dos Santos
