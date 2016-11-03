@@ -4,7 +4,7 @@ title: "DevParaná Conference"
 date: 2016-11-03 11:00:00
 image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference
-tags: conference frontend maujor braziljs
+tags: conference
 categories: conference
 twitter_text: DevParaná Conference
 username: Fernando Fabricio dos Santos
