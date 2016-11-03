@@ -20,7 +20,8 @@ photo: ferfabricio.jpg
 ​Jaydson é entusiasta open-source e tem apresentado diversas palestras ao longo dos últimos anos, em sua grande maioria falando sobre JavaScript e tecnologias Web.
 Seu último projeto, [​Harmonic​](https://github.com/JSRocksHQ/harmonic), é um gerador de sites estáticos desenvolvido em ​Node.js, utlizando features da ES2015/ES6, nova versão do JavaScript.
 
-{% youtube bZIQTDfelfE %}
+<iframe width="560" height="420" src="http://www.youtube.com/embed/bZIQTDfelfE?color=white&theme=light"></iframe>
+
 ​
 [Link para o artigo](https://jaydson.com/como-e-ser-um-bom-desenvolvedor-em-2016/) comentado no vídeo.
 
