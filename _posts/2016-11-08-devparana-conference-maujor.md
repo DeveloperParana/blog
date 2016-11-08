@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DevParaná Conference - Maurício Samy Silva (Maujor®)"
-date: 2016-11-08 11:00:00 -0200
+date: 2016-11-08 10:00:00 -0200
 image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference do Maujor
 tags: conference frontend maujor css
