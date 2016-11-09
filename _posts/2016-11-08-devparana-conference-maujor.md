@@ -6,7 +6,7 @@ image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference do Maujor
 tags: conference frontend maujor css
 categories: conference
-twitter_text: DevParaná Conference - Jaydson Gomes
+twitter_text: DevParaná Conference - Maujor
 username: Fernando Fabricio dos Santos
 user_description: Entusiasta de metodologias ágeis e software bem desenvolvido!
 email: ferfabricio@gmail.com
