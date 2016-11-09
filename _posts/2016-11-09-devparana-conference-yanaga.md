@@ -4,9 +4,9 @@ title: "DevParaná Conference - Edson Yanaga"
 date: 2016-11-09 10:00:00 -0200
 image: '/assets/img/devparana-conference/banner.jpg'
 description: Convite para a Conference do Edson Yanaga
-tags: conference frontend maujor css
+tags: devparanaconference devops container yanaga
 categories: conference
-twitter_text: DevParaná Conference - Edson Yanaga
+twitter_text: Convite para DevParaná Conference de @yanaga
 username: Fernando Fabricio dos Santos
 user_description: Entusiasta de metodologias ágeis e software bem desenvolvido!
 email: ferfabricio@gmail.com
