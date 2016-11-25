@@ -50,7 +50,7 @@ Este código está licenciado sob <a rel="license" href="http://creativecommons.
 
 ### Responsabilidade sobre objetos
 
-Também não nos responsabilizaremos sobre objetos levados a conferência, cuide dos seus pertences pessoas, não os coloque dentro das pastas do evento pois todos os participantes terão uma pasta igual, fica difícil de identificar!
+Também não nos responsabilizaremos sobre objetos levados a conferência, cuide dos seus pertences pessoais, não os coloque dentro das pastas do evento, pois todos os participantes terão uma pasta igual, fica difícil de identificar!
 
 ### Patrocínios
 [![Sicredi](/assets/img/posts/devparana-conference/sicredi.png){: .patrocinio-logo}](https://www.sicredi.com.br)
