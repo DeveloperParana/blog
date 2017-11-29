@@ -1,11 +1,12 @@
 language: ruby
 rvm:
-- 2.1
+- 2.4
 
 install:
   - bundle install
 
 before_script:
+  - gem install html-proofer
   - chmod +x cibuild.sh
 
 script: "./cibuild.sh"
