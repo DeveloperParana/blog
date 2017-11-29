@@ -11,7 +11,7 @@ install:
   - bundle install
 
 before_script:
-  - gem install html-proof
+  - gem install html-proofer
   - chmod +x cibuild.sh
 
 script: "./cibuild.sh"
